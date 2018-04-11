@@ -1,5 +1,4 @@
 import turtle
-
 for r in range(5, 100, 5) :
     turtle.penup()
     turtle.setpos(-r, -r)
